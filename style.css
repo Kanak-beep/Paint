@@ -1,0 +1,16 @@
+.body-background{
+    background-image: "bg1.jpg";
+    text-align: center;
+  }
+#myCanvas{
+  border-color: deepskyblue;
+  border-style: double;
+  border-width: 0.25cm;
+}
+h1{
+  font-size: 40px;
+}
+h2, h3{
+  font-size: 20px;
+  font-weight: bold;
+}
